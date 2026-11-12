@@ -414,7 +414,7 @@ Use SerpApi APIs without writing code:
 - Compare what users like and dislike about competing apps.
 - Collect the most critical reviews with `sort=mostcritical` to prioritize fixes.
 - Compare reviews across App Store regions.
-- Give AI agents and RAG pipelines the reviews to summarize.
+- Give AI agents and RAG pipelines a tool to analyze what users say about your app and competing apps.
 
 ## Related scrapers
 
